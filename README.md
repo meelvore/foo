@@ -1,12 +1,13 @@
 Sheed (<a href="http://www.github.com/meelvore">@Meelvore</a>)
 ================================================================================================================================
 Kumusta? Senior-level student at University of the East, Manila.
-// 🌍  I'm based in Philippines
-// ✉️  You can contact me at [rasheed.delacruz@yahoo.com](mailto:rasheed.delacruz@yahoo.com)
-// Currently learning .NET <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a> and Django <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a> Frameworks.
-// 🤝  I'm open to collaborating on interesting projects that includes developing machine learning software or game applications.
-</a> <a href="https://www.linkedin.com/in/rasheed-delacruz/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
-
+<ul>
+  <li>// 🌍  I'm based in Philippines</li>
+<li>// ✉️  You can contact me at [rasheed.delacruz@yahoo.com](mailto:rasheed.delacruz@yahoo.com)</li>
+<li>// Currently learning .NET <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a> and Django <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a> Frameworks.</li>
+<li>// 🤝  I'm open to collaborating on interesting projects that includes developing machine learning software or game applications.
+</a> <a href="https://www.linkedin.com/in/rasheed-delacruz/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></li>
+<ul>
 ### Skills
 
 <p align="left">
