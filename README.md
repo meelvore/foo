@@ -1,13 +1,13 @@
-Sheed (<a href="http://www.github.com/meelvore">@Sheed</a>)
+Sheed (<a href="http://www.github.com/meelvore">@Meelvore</a>)
 ================================================================================================================================
 
 Web and Game Developer
 ----------------------
-
+Kumusta? Senior-level student at University of the East, Manila.
 * 🌍  I'm based in Philippines
 * ✉️  You can contact me at [rasheed.delacruz@yahoo.com](mailto:rasheed.delacruz@yahoo.com)
-* 🧠  I'm learning .NET Framework
-* 🤝  I'm open to collaborating on interesting projects that includes machine learning software or game development.
+* 🧠  Currently learning .NET and Django Framework
+* 🤝  I'm open to collaborating on interesting projects that includes developing machine learning software or game applications.
 
 ### Skills
 
