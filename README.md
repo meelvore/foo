@@ -1,24 +1,19 @@
 # Kumusta! My name is Meelvore :wave:
 <!-- ================================================================================================================================ -->
-<p>I'm a senior-level student taking BSCS at University of the East, Manila from Philippines. 
-//  I'm open to collaborating on interesting projects that includes developing machine learning software or game applications. <br/>
-//  I'm open to collaborating on interesting projects preferably related to machine learning or game development. <br/>
-</p>
+<p>I'm a senior-level student taking BSCS at University of the East, Manila from Philippines. I'm open to collaborating/joining on interesting projects preferably related to machine learning or game development.</p>
 
 ***NOTE: Lorem ipsum***
 `NOTE: Lorem ipsum`
 > "ahahaha" -?
 
 ## // Skills
-#### Languages
-<p align="left">
+### Languages
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" loading="lazy" width="auto" height="30" alt="Python" /></a>
 <a href="#" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" loading="lazy" width="auto" height="30" alt="Java" /></a>
 <a href="#" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" loading="lazy" width="auto" height="30" alt="JavaScript" /></a>
 <a href="#" rel="noreferrer"><img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" loading="lazy" width="auto" height="30" alt="R" /></a>
 <a href="#" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" loading="lazy" width="auto" height="30" alt="SASS" /></a>
-
-<h4>Frameworks</h4>
+### Frameworks
 <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" loading="lazy" width="auto" height="30" alt="Flask" /></a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" loading="lazy" width="auto" height="30" alt="React" /></a>
 
@@ -33,7 +28,6 @@
 <h4>Tools</h4>
 
 <a href="" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" loading="lazy" width="auto" height="30" /></a>
-<a href="" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" loading="lazy" width="auto" height="30" /></a>
 <a href="" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" loading="lazy" width="auto" height="30" /></a>
 <a href="" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white"
 loading="lazy" width="auto" height="30" /></a>
@@ -59,8 +53,8 @@ loading="lazy" width="auto" height="30" /></a>
 
 
 <div>
-<a align="left" href="https://www.linkedin.com/in/rasheed-delacruz/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" loading="lazy" height="30" /></a>
-<a align="left" href="mailto:rasheed.delacruz@yahoo.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Yahoo!-6001D2?style=for-the-badge&logo=Yahoo!&logoColor=white" loading="lazy" height="30" /></a>
-<img align="right" src="https://img.shields.io/github/followers/meelvore.svg?style=social&label=Follow&maxAge=2592000" height="30" />
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=meelvore.README.md" height="30" />
+<a align="left" href="https://www.linkedin.com/in/rasheed-delacruz/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" loading="lazy" height="25" /></a>
+<a align="left" href="mailto:rasheed.delacruz@yahoo.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Yahoo!-6001D2?style=for-the-badge&logo=Yahoo!&logoColor=white" loading="lazy" height="25" /></a>
+<img align="right" src="https://img.shields.io/github/followers/meelvore.svg?style=social&label=Follow&maxAge=2592000" height="25" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=meelvore.README.md" height="25" />
 </div>
