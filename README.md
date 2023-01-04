@@ -1,4 +1,4 @@
-# Kumusta, I'm Meelvore  👋
+# Kumusta, I'm Meelvore :wave:
 <!-- ================================================================================================================================ -->
 I'm a Senior-level student taking BSCS at University of the East, Manila from Philippines. 
 // ✉️  You can contact me at [rasheed.delacruz@yahoo.com](mailto:rasheed.delacruz@yahoo.com)<br/>
@@ -40,6 +40,9 @@ I'm a Senior-level student taking BSCS at University of the East, Manila from Ph
 
 <a href="" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" loading="lazy" width="auto" height="30" /></a>
 <a href="" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" loading="lazy" width="auto" height="30" /></a>
+<a href="" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white"
+loading="lazy" width="auto" height="30" /></a>
+<a href="" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" loading="lazy" width="auto" height="30" /></a>
 
 <h4>// Currently learning</h4>
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" loading="lazy" width="auto" height="30" alt="Django" /></a>
