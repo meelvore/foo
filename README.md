@@ -1,9 +1,11 @@
 # Kumusta! My name is Meelvore :wave:
 Currently senior-level student taking BSCS at the University of the East, Manila. Highly motivated to join and collaborate on interesting projects preferably in the field of machine learning or game development.
-***NOTE: Lorem ipsum***
 
-<a align="left" href="https://www.linkedin.com/in/rasheed-delacruz/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" loading="lazy" height="25" /></a>
-<a align="left" href="mailto:rasheed.delacruz@yahoo.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Yahoo!-6001D2?style=for-the-badge&logo=Yahoo!&logoColor=white" loading="lazy" height="25" /></a>
+***You can reach me at:***
+<div align="left">
+<a href="https://www.linkedin.com/in/rasheed-delacruz/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" loading="lazy" height="25" /></a>
+<a href="mailto:rasheed.delacruz@yahoo.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Yahoo!-6001D2?style=for-the-badge&logo=Yahoo!&logoColor=white" loading="lazy" height="25" /></a>
+</div>
 
 ## // Skills
 #### Languages
