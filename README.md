@@ -7,8 +7,8 @@ I'm a Senior-level student taking BSCS at University of the East, Manila from Ph
 // 🤝  I'm open to collaborating on interesting projects that includes developing machine learning software or game applications.
 
 <a href="https://www.facebook.com/rasheed.delacruz/" target="_blank" rel="noreferrer">
-<img src="https://cdn1.iconfinder.com/data/icons/social-media-2285/512/Colored_Facebook3_svg-256.png" width="32" height="32"/></a>
-<a href="https://www.linkedin.com/in/rasheed-delacruz/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32"/></a> 
+<img src="https://cdn1.iconfinder.com/data/icons/social-media-2285/512/Colored_Facebook3_svg-256.png" width="30" height="30"/></a>
+<a href="https://www.linkedin.com/in/rasheed-delacruz/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="30" height="30"/></a> 
 
 <i>NOTE: Lorem ipsum</i>
   
@@ -46,7 +46,8 @@ I'm a Senior-level student taking BSCS at University of the East, Manila from Ph
 </p>
 
 
-### GitHub Stats
+<h3 align="center">GitHub Stats</h3>
+
 ---------------------------------------
 <a href="http://www.github.com/meelvore"><img src="https://github-readme-stats.vercel.app/api?username=meelvore&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&show_icons=true" alt="meelvore's GitHub stats" /></a>
 <a href="http://www.github.com/meelvore"><img src="https://github-readme-streak-stats.herokuapp.com/?user=meelvore&stroke=ffffff&background=1c1917&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
