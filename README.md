@@ -1,7 +1,6 @@
 Kumusta, I'm Meelvore
 ================================================================================================================================
-
-Kumusta? Senior-level student at University of the East, Manila.
+I'm a Senior-level student taking BSCS at University of the East, Manila from Philippines. 
 <br/>// 🌍  I'm based in Philippines<br/>
 // ✉️  You can contact me at [rasheed.delacruz@yahoo.com](mailto:rasheed.delacruz@yahoo.com)<br/>
 // Currently learning .NET <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a> and Django <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a> Frameworks.<br/>
