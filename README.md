@@ -1,17 +1,11 @@
 # Kumusta! My name is Meelvore :wave:
-```
-> I'm a senior-level student taking BSCS at University of the East, Manila from Philippines. 
-> I'm open to collaborating/joining on interesting projects preferably related to machine learning or game development.
-```
+Currently senior-level student taking BSCS at the University of the East, Manila. Highly motivated to join and collaborate on interesting projects preferably in the field of machine learning or game development.
+***NOTE: Lorem ipsum***
 
 <a align="left" href="https://www.linkedin.com/in/rasheed-delacruz/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" loading="lazy" height="25" /></a>
 <a align="left" href="mailto:rasheed.delacruz@yahoo.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Yahoo!-6001D2?style=for-the-badge&logo=Yahoo!&logoColor=white" loading="lazy" height="25" /></a>
 
-***NOTE: Lorem ipsum***
-> "ahahaha" -?
-
 ## // Skills
-
 #### Languages
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" loading="lazy" width="auto" height="30" alt="Python" /></a>
 <a href="#" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" loading="lazy" width="auto" height="30" alt="Java" /></a>
