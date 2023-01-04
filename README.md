@@ -1,14 +1,11 @@
-# Kumusta, I'm Meelvore :wave:
+# Kumusta, My name is Meelvore :wave:
 <!-- ================================================================================================================================ -->
 I'm a Senior-level student taking BSCS at University of the East, Manila from Philippines. 
 // ✉️  You can contact me at [rasheed.delacruz@yahoo.com](mailto:rasheed.delacruz@yahoo.com)<br/>
 // 🤝  I'm open to collaborating on interesting projects that includes developing machine learning software or game applications.
-
+// I'm open to collaborating on interesting projects preferably related to machine learning or game development.
 > "ahahaha" -?
 
-<a href="https://www.facebook.com/rasheed.delacruz/" target="_blank" rel="noreferrer">
-<img src="https://cdn1.iconfinder.com/data/icons/social-media-2285/512/Colored_Facebook3_svg-256.png" loading="lazy" width="30" height="30"/></a>
-<a href="https://www.linkedin.com/in/rasheed-delacruz/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" loading="lazy" width="30" height="30"/></a> 
 
 ***NOTE: Lorem ipsum***
 `NOTE: Lorem ipsum`
@@ -66,6 +63,8 @@ loading="lazy" width="auto" height="30" /></a>
 ```
 
 <div>
+<a align="left" href="https://www.linkedin.com/in/rasheed-delacruz/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" loading="lazy" height="30" /></a>
+<!-- <a align="left" href="https://www.facebook.com/rasheed.delacruz/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" loading="lazy" height="30" /></a> -->
 <img align="right" src="https://img.shields.io/github/followers/meelvore.svg?style=social&label=Follow&maxAge=2592000" height="30" />
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=meelvore.README.md" height="30" />
 </div>
