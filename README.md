@@ -1,5 +1,5 @@
 # Kumusta! My name is Meelvore :wave:
-Currently senior-level student taking BSCS at the University of the East, Manila. Highly motivated to join and collaborate on interesting projects preferably in the field of machine learning or game development.
+Currently senior-level student taking BSCS at the University of the East, Manila. Highly motivated to join and collaborate on interesting projects preferably in the field of machine learning and game development.
 
 ***You can reach me at:***
 <div align="left">
