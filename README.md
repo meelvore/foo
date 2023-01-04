@@ -3,13 +3,11 @@ Kumusta, I'm Meelvore
 I'm a Senior-level student taking BSCS at University of the East, Manila from Philippines. 
 <br/>// 🌍  I'm based in Philippines<br/>
 // ✉️  You can contact me at [rasheed.delacruz@yahoo.com](mailto:rasheed.delacruz@yahoo.com)<br/>
-// Currently learning .NET <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a> and Django <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a> Frameworks.<br/>
 // 🤝  I'm open to collaborating on interesting projects that includes developing machine learning software or game applications.
 
 <a href="https://www.facebook.com/rasheed.delacruz/" target="_blank" rel="noreferrer">
 <img src="https://cdn1.iconfinder.com/data/icons/social-media-2285/512/Colored_Facebook3_svg-256.png" width="30" height="30"/></a>
 <a href="https://www.linkedin.com/in/rasheed-delacruz/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="30" height="30"/></a> 
-
 <i>NOTE: Lorem ipsum</i>
   
 ### Skills
@@ -45,9 +43,10 @@ I'm a Senior-level student taking BSCS at University of the East, Manila from Ph
 <!-- <a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a> -->
 </p>
 
+<h4>// Currently learning</h4>
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a><a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a>
 
 <h3 align="center">GitHub Stats</h3>
-
 ---------------------------------------
 <a href="http://www.github.com/meelvore"><img src="https://github-readme-stats.vercel.app/api?username=meelvore&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&show_icons=true" alt="meelvore's GitHub stats" /></a>
 <a href="http://www.github.com/meelvore"><img src="https://github-readme-streak-stats.herokuapp.com/?user=meelvore&stroke=ffffff&background=1c1917&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
@@ -59,3 +58,6 @@ I'm a Senior-level student taking BSCS at University of the East, Manila from Ph
 ```
 "Lorem Ipsum" - ?
 ```
+
+
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=meelvore.README.md)
