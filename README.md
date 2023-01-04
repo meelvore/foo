@@ -1,5 +1,6 @@
-Sheed (<a href="http://www.github.com/meelvore">@Meelvore</a>)
+Kumusta, I'm Meelvore
 ================================================================================================================================
+
 Kumusta? Senior-level student at University of the East, Manila.
 <br/>// 🌍  I'm based in Philippines<br/>
 // ✉️  You can contact me at [rasheed.delacruz@yahoo.com](mailto:rasheed.delacruz@yahoo.com)<br/>
