@@ -1,4 +1,4 @@
-# Kumusta, I'm Meelvore :wave:
+# Kumusta! I'm Meelvore :wave:
 <!-- ================================================================================================================================ -->
 I'm a Senior-level student taking BSCS at University of the East, Manila from Philippines. 
 // ✉️  You can contact me at [rasheed.delacruz@yahoo.com](mailto:rasheed.delacruz@yahoo.com)<br/>
