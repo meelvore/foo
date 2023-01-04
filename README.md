@@ -12,7 +12,7 @@ Reach me at:
 <img src="https://cdn1.iconfinder.com/data/icons/social-media-2285/512/Colored_Facebook3_svg-256.png" width="32" height="32"/></a>
 <a href="https://www.linkedin.com/in/rasheed-delacruz/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32"/></a> 
 
-
+<i>NOTE: Lorem ipsum</i>
   
 ### Skills
 
