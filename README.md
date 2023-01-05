@@ -7,6 +7,13 @@ Currently senior-level student taking BSCS at the University of the East, Manila
 <a href="mailto:rasheed.delacruz@yahoo.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Yahoo!-6001D2?style=for-the-badge&logo=Yahoo!&logoColor=white" loading="lazy" height="25" /></a>
 </div>
 
+<details>
+  <summary>
+    
+  ## // Skills
+    
+  </summary>
+
 ## // Skills
 #### Languages
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" loading="lazy" width="auto" height="30" alt="Python" /></a>
@@ -40,6 +47,16 @@ loading="lazy" width="auto" height="30" /></a>
 <a href="#" rel="noreferrer"><img src="https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white" loading="lazy" width="auto" height="30" /></a>
 <a href="#" rel="noreferrer"><img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" loading="lazy" width="auto" height="30" /></a>
 
+</details>
+
+
+<details>
+  <summary>
+    
+  ## // GitHub Stats
+    
+  </summary>
+    
 ## // GitHub Stats
 <a href="http://www.github.com/meelvore"><img src="https://github-readme-stats.vercel.app/api?username=meelvore&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&show_icons=true" alt="meelvore's GitHub stats" /></a>
 <a href="http://www.github.com/meelvore"><img src="https://github-readme-streak-stats.herokuapp.com/?user=meelvore&stroke=ffffff&background=1c1917&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
@@ -52,6 +69,7 @@ loading="lazy" width="auto" height="30" /></a>
 <img align="right" src="https://img.shields.io/github/followers/meelvore.svg?style=social&label=Follow&maxAge=2592000" height="25" />
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=meelvore.README.md" height="25" />
 </div>
+</details>
 
 
 <!-- ================================================================================================================================ -->
