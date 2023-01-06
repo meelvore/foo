@@ -1,4 +1,4 @@
-<img align="right" src="img/header.png">
+<img align="center" src="img/header.png">
 
 
 # Kumusta! My name is Sheed :wave:
