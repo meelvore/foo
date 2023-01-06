@@ -1,16 +1,26 @@
-<img align="center" src="img/header.png">
+<!-- <img align="center" src="img/header.png"> -->
 
 
-# Kumusta! My name is Sheed :wave:
-Currently senior-level student taking BSCS at the University of the East, Manila. Highly motivated to join and collaborate on interesting projects preferably in the field of machine learning and game development.
+<h3 align="center">
+        <samp>&gt; Kumusta! My name is 
+                <b>Sheed</b>
+        </samp>
+</h3>
 
-<details>
-  <summary>
-    
-  ## // Skills
-    
-  </summary>
+<p align="center">
+  <samp>
+    Currently senior-level student taking BSCS at the University of the East, Manila. <br>
+    Highly motivated to join and collaborate on interesting projects preferably<br>
+    in the field of machine learning and game development.
+    </samp>
+</p>    
+ 
 
+
+<details align="center">
+    <summary> <samp>Skills</samp></summary>
+    <p align="center">
+      
 #### Languages
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" loading="lazy" width="auto" height="30" alt="Python" /></a>
 <a href="#" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" loading="lazy" width="auto" height="30" alt="Java" /></a>
@@ -42,10 +52,10 @@ loading="lazy" width="auto" height="30" /></a>
 <a href="#" rel="noreferrer"><img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" loading="lazy" width="auto" height="30" /></a>
 <a href="#" rel="noreferrer"><img src="https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white" loading="lazy" width="auto" height="30" /></a>
 <a href="#" rel="noreferrer"><img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" loading="lazy" width="auto" height="30" /></a>
-
 </details>
 
-<div>
+<a></a>
+------------
 
 ***You can reach me at:***
 
@@ -54,6 +64,3 @@ loading="lazy" width="auto" height="30" /></a>
 <img align="right" src="https://img.shields.io/github/followers/meelvore.svg?style=social&label=Follow&maxAge=2592000" height="25" />
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=meelvore.README.md" height="25" />
 </div>
-
-
-<!-- ================================================================================================================================ -->
