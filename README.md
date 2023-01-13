@@ -50,7 +50,7 @@ loading="lazy" width="auto" height="30" /></a>
 
 #### Other Interest
 <a href="#" rel="noreferrer"><img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" loading="lazy" width="auto" height="30" /></a>
-<a href="#" rel="noreferrer"><img src="https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white" loading="lazy" width="auto" height="30" /></a>
+<!-- <a href="#" rel="noreferrer"><img src="https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white" loading="lazy" width="auto" height="30" /></a> -->
 <a href="#" rel="noreferrer"><img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" loading="lazy" width="auto" height="30" /></a>
 </details>
 
