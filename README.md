@@ -46,13 +46,15 @@ loading="lazy" width="auto" height="30" /></a>
 
 #### Currently learning
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" loading="lazy" width="auto" height="30" alt="Django" /></a>
-<a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" loading="lazy" width="auto" height="30" alt=".Net" /></a>
+<a href="#" rel="noreferrer"><img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" loading="lazy" width="auto" height="30" /></a>
 
 #### Other Interest
-<a href="#" rel="noreferrer"><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" loading="lazy" width="auto" height="30" /></a>
-<a href="#" rel="noreferrer"><img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" loading="lazy" width="auto" height="30" /></a>
+<a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" loading="lazy" width="auto" height="30" alt=".Net" /></a>
 <a href="#" rel="noreferrer"><img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" loading="lazy" width="auto" height="30" /></a>
+
 <!-- <a href="#" rel="noreferrer"><img src="https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white" loading="lazy" width="auto" height="30" /></a> -->
+<!-- <a href="#" rel="noreferrer"><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" loading="lazy" width="auto" height="30" /></a> -->
+
 </details>
 
 <a></a>
