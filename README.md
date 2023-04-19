@@ -44,9 +44,9 @@
 loading="lazy" width="auto" height="30" /></a>
 <a href="" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" loading="lazy" width="auto" height="30" /></a>
 
-#### Currently learning
+<!-- #### Currently learning
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" loading="lazy" width="auto" height="30" alt="Django" /></a>
-<a href="#" rel="noreferrer"><img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" loading="lazy" width="auto" height="30" /></a>
+<a href="#" rel="noreferrer"><img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" loading="lazy" width="auto" height="30" /></a> -->
 
 #### Other Interest
 <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" loading="lazy" width="auto" height="30" alt=".Net" /></a>
