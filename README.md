@@ -61,12 +61,11 @@ loading="lazy" width="auto" height="30" /></a>
 ------------
 
 ***You can reach me at:***
-
+<div>
 <a align="left" href="https://www.linkedin.com/in/rasheed-delacruz/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" loading="lazy" height="25" /></a>
 <a align="left" href="mailto:rasheed.delacruz@yahoo.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Yahoo!-6001D2?style=for-the-badge&logo=Yahoo!&logoColor=white" loading="lazy" height="25" /></a>
+<a align="left" href="sheed.netlify.app" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" loading="lazy" height="25" /></a>
 
-
-<!-- <img align="right" src="https://img.shields.io/github/followers/meelvore.svg?style=social&label=Follow&maxAge=2592000" height="25" /> -->
-<!-- <a align="right" href="sheed.netlify.app" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" loading="lazy" height="25" /></a> -->
+<img align="right" src="https://img.shields.io/github/followers/meelvore.svg?style=social&label=Follow&maxAge=2592000" height="25" />
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=meelvore.README.md" height="25" />
 </div>
