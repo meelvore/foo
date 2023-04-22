@@ -39,6 +39,7 @@
 
 #### Tools
 <a href="" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" loading="lazy" width="auto" height="30" /></a>
+<a href="" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Netlify-05b3b1?style=for-the-badge&logo=netlify&logoColor=white" loading="lazy" width="auto" height="30" /></a>
 <a href="" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" loading="lazy" width="auto" height="30" /></a>
 <a href="" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white"
 loading="lazy" width="auto" height="30" /></a>
