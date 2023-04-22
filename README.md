@@ -45,8 +45,9 @@
 loading="lazy" width="auto" height="30" /></a>
 <a href="" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" loading="lazy" width="auto" height="30" /></a>
 
-<!-- #### Currently learning
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" loading="lazy" width="auto" height="30" alt="Django" /></a>
+#### Currently learning
+<a href="#" rel="noreferrer"><img src="https://img.shields.io/badge/Firebase-0393d9?style=for-the-badge&logo=firebase&logoColor=f2c22e" loading="lazy" width="auto" height="30" /></a>
+<!-- <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" loading="lazy" width="auto" height="30" alt="Django" /></a>
 <a href="#" rel="noreferrer"><img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" loading="lazy" width="auto" height="30" /></a> -->
 
 #### Other Interest
