@@ -9,7 +9,7 @@
 
 <p align="center">
   <samp>
-    Currently senior-level student taking Computer Science at the University of the East, Manila. <br>
+    Recently Computer Science graduate at the University of the East, Manila. <br>
     Highly motivated to join and collaborate on interesting projects preferably<br>
     in the field of machine learning and web/software development.
     </samp>
